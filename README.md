@@ -101,7 +101,7 @@ This dashboard analyzes **medal distributions across countries**.
 ## 📌 **How to Use This Repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Data-Visualization-Projects-Using-Tableau.git
+   git clone https://github.com/DINAKAR-S/Data-Visualization-Projects-Using-Tableau.git
    ```
 2. Open the Tableau files and explore the dashboards.
 3. Modify or enhance the visualizations based on insights.
